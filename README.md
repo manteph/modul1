@@ -44,3 +44,5 @@ Inici sessió després reinici
 Instal·lació DE
 
 ![Captura9 instal·lació desktop environment](https://user-images.githubusercontent.com/98331382/151603961-74a6650b-c378-4999-a766-2a46e4993e24.JPG)
+
+FI DE DOCUMENT
