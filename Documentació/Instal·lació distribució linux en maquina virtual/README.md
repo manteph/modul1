@@ -5,15 +5,15 @@
 La instal·lació d'ArchLinux es molt diferent d'altres distribucions Linux, ja que no te instal·lador grafic, és a través de la terminal.
 Per poder fer una instal·lació d'aquest en una maquina virtual he seguit una guia: https://www.howtoforge.com/tutorial/install-arch-linux-on-virtualbox/
 
-He capturat diferents pantalled del procès de configuració i instal·lació del mateix.
+He capturat diferents pantalles del procès de configuració i instal·lació del mateix.
 
 Formateig disk i montatge particio per instal·lació del sistema
 
-![Captura1 formateig disk i montatge particio per instal·lació del sistema](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Instal%C2%B7laci%C3%B3%20distribuci%C3%B3%20linux%20en%20maquina%20virtual/captura1.jpg)
+![Captura1](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Instal%C2%B7laci%C3%B3%20distribuci%C3%B3%20linux%20en%20maquina%20virtual/captura1.jpg)
 
 Instal·lació sistema base
 
-![https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Instal%C2%B7laci%C3%B3%20distribuci%C3%B3%20linux%20en%20maquina%20virtual/captura2.jpg)
+![Captura2](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Instal%C2%B7laci%C3%B3%20distribuci%C3%B3%20linux%20en%20maquina%20virtual/captura2.jpg)
 
 Triar localització
 
