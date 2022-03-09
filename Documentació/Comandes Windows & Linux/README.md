@@ -64,3 +64,11 @@ De l'arxiu de practica, s'han realitzat algunes de les activitats proposades, no
 >Mitjançant la utilització de les comandes del MSDOS, es pretén que creïs la següent estructura de directoris ( unitat C:).
 
 ![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Comandes%20Windows%20%26%20Linux/Imatges%20gestio%20fitxers%20windows/Captura14.PNG)
+
+>Escriviu la ruta ( path ) des del directori arrel fins a:
+```console
+C:\UTIL
+C:\dos
+C:\windows2\word
+C:\windows2\word\textos
+```
