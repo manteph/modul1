@@ -39,4 +39,4 @@ kill 11123
  ```console
  pstree -g
  ```
- [Captura Pantalla pstree -g del PID nano i el seu parent](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20processos%20Linux/Screenshot%20from%202022-03-11%2017-52-03.png)
+ ![Captura Pantalla pstree -g del PID nano i el seu parent](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20processos%20Linux/Screenshot%20from%202022-03-11%2017-52-03.png)
