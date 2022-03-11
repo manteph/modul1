@@ -1,5 +1,7 @@
 ## Gestió de processos Linux
 
+### Respon les següents preguntes
+
 1.Què és el PID d'un procés?
 >Nombre identificador del proces.
 
@@ -40,3 +42,28 @@ kill 11123
  pstree -g
  ```
  ![Captura Pantalla pstree -g del PID nano i el seu parent](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20processos%20Linux/Screenshot%20from%202022-03-11%2017-52-03.png)
+
+### Processos en primer pla
+
+1.Quina comanda utilitzaries per mira els processos existents al sistema. 
+```console
+ps -aux
+```
+2.Llença un procés que duri 600 segons en primer pla. (per exemple  sleep 600).
+```console
+sleep 600
+```
+3.Mata el procés anterior. Que observes? Apareixen els mateixos processos que al punt 1?
+```console
+kill 12554
+ps -aux
+```
+>Havent matat el procés hi surten els mateixos que al punt 1.
+4.Torna a executar el procés però ara pararem el procés (Control-Z) Que observes? Apareixen els mateixos processos que al punt 1?
+>No, ja que para el procés, només el posa en pausa no el mata, per lo que aquest hi continua surtint com procés iniciat.
+5.Mata finalment el procés.
+```console
+kill 13231
+```
+### Processos en segon pla
+
