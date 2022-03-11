@@ -61,7 +61,7 @@ ps -aux
 >Havent matat el procés hi surten els mateixos que al punt 1.
 
 4.Torna a executar el procés però ara pararem el procés (Control-Z) Que observes? Apareixen els mateixos processos que al punt 1?
->No, ja que para el procés, només el posa en pausa no el mata, per lo que aquest hi continua surtint com procés iniciat.
+>No, ja que parar el procés, només el posa en pausa, no el mata, per lo que aquest hi continua surtint com procés iniciat.
 
 5.Mata finalment el procés.
 ```console
