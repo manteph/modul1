@@ -67,3 +67,19 @@ kill 13231
 ```
 ### Processos en segon pla
 
+1.Executa un procés qualsevol en segon pla.
+```console
+firefox </dev/null &>/dev/null &
+```
+2.Un procés en segon pla, seguirà mostrant la seva sortida per pantalla des de que s'ha donat l'ordre d'execució?
+>Al passar-lo en segon pla, ja no mostra les sortides en terminal.
+3.Para el procés.
+```console
+firefox
+^Z
+```
+4.Reinicia el procés anterior i que aquest segueixi en segon pla.
+```console
+jobs
+fg firefox
+```
