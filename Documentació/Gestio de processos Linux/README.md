@@ -59,8 +59,10 @@ kill 12554
 ps -aux
 ```
 >Havent matat el procés hi surten els mateixos que al punt 1.
+
 4.Torna a executar el procés però ara pararem el procés (Control-Z) Que observes? Apareixen els mateixos processos que al punt 1?
 >No, ja que para el procés, només el posa en pausa no el mata, per lo que aquest hi continua surtint com procés iniciat.
+
 5.Mata finalment el procés.
 ```console
 kill 13231
@@ -73,6 +75,7 @@ firefox </dev/null &>/dev/null &
 ```
 2.Un procés en segon pla, seguirà mostrant la seva sortida per pantalla des de que s'ha donat l'ordre d'execució?
 >Al passar-lo en segon pla, ja no mostra les sortides en terminal.
+
 3.Para el procés.
 ```console
 firefox
