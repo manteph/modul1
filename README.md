@@ -11,3 +11,5 @@
 4.[Instal·lació distribució Linux en màquina virtual](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Instal%C2%B7laci%C3%B3%20distribuci%C3%B3%20linux%20en%20maquina%20virtual/README.md)
 
 5.[Comandes Windows](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Comandes%20Windows%20%26%20Linux/README2.md)
+
+6.[Gestio de xarxa](https://github.com/manteph/modul1/tree/main/Documentaci%C3%B3/Gestio%20de%20la%20xarxa)
