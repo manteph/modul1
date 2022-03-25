@@ -1,6 +1,9 @@
 1.Mostra el fitxer de configuració de la xarxa
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Instal%C2%B7lacio%20Ubuntu%20Server/Imatges/Screenshot%20from%202022-03-25%2019-01-31.png)
 
 2.Consulta l'adreça, màscara, porta d'enllaç i servidor DNS.
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Instal%C2%B7lacio%20Ubuntu%20Server/Imatges/Screenshot%20from%202022-03-25%2019-42-53.png)
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Instal%C2%B7lacio%20Ubuntu%20Server/Imatges/Screenshot%20from%202022-03-25%2019-39-57.png)
 
 3.Canvia la configuració de Virtualbox  mode pont.
 
