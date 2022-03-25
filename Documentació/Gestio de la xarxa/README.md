@@ -34,3 +34,4 @@
 ![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20la%20xarxa/imatges/Screenshot%20from%202022-03-25%2017-34-15.png)
 
 12.Fer ping a la màquina del company. Funciona?
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20la%20xarxa/imatges/Screenshot%20from%202022-03-25%2019-22-19.png)
