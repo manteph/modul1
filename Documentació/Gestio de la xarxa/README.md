@@ -1,6 +1,7 @@
 ## Gestió de la xarxa
 
 1.Mirar la configuració de la xarxa. Consultar els paràmetres: ip, màscara, porta d'enllaç, servidor DNS.
+!(https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20la%20xarxa/Screenshot%20from%202022-03-25%2017-00-04.png)
 
 2.El mateix amb comandes. Obtén els quatre paràmetres de configuració
 
