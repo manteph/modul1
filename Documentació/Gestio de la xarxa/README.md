@@ -31,5 +31,6 @@
 ![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20la%20xarxa/Screenshot%20from%202022-03-25%2017-18-43.png)
 
 11.Canviar la configuració IP de DHCP a manual. Posar-se d'acord amb una adreça IP de la mateixa xarxa que un company de l'aula
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20la%20xarxa/Screenshot%20from%202022-03-25%2017-34-15.png)
 
 12.Fer ping a la màquina del company. Funciona?
