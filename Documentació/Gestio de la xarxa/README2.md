@@ -1,6 +1,7 @@
 ## Gestio de la xarxa en Windows 
 
 1.Mostra la configuració de la xarxa. Indica quina IP. màscara, gateway i DNS té.
+
 ![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20la%20xarxa/imatges/Captura.PNG)
 
 2.Prova les comandes ipconfig, ping i tracert.
