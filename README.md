@@ -13,3 +13,9 @@
 5.[Comandes Windows](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Comandes%20Windows%20%26%20Linux/README2.md)
 
 6.[Gestio de xarxa](https://github.com/manteph/modul1/tree/main/Documentaci%C3%B3/Gestio%20de%20la%20xarxa)
+
+7.[Gestio de xarxa en Windows](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Gestio%20de%20la%20xarxa/README2.md)
+
+8.[Instal·lació Ubuntu Server](https://github.com/manteph/modul1/tree/main/Documentaci%C3%B3/Instal%C2%B7lacio%20Ubuntu%20Server)
+
+9.[Gestió de xarxa Ubuntu Server](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Instal%C2%B7lacio%20Ubuntu%20Server/PRACTICA-SERVER.md)
