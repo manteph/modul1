@@ -22,11 +22,14 @@
   
   >Si veiem active (running) ressaltat en verd vol dir que ja està instal·lat i funcionant. En cas que no, l'instal·larem:
  
+ *Con ja esta instal·lat i actiu aquest pas el saltem*
+ 
 ```console
   sudo apt install openssh-server
   ```
   
 7.Per a accedir al servei SSH:
-  ssh usuari@adreça_IP
+  ssh manteph@192.168.79.233
 
   Des d'on haurem de realitzar l'accés?
+  >Des de qualsevol altre ordenador de la xarxa
