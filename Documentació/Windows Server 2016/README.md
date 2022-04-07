@@ -22,6 +22,13 @@
 ![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Windows%20Server%202016/pictures/Screenshot%20from%202022-04-07%2016-39-39.png)
 
 
-5.
+5.Creació d'unitats organitzatives, usuaris i grups.
+
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Windows%20Server%202016/pictures/Screenshot%20from%202022-04-07%2018-27-04.png)
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Windows%20Server%202016/pictures/Screenshot%20from%202022-04-07%2018-30-09.png)
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Windows%20Server%202016/pictures/Screenshot%20from%202022-04-07%2018-33-18.png)
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/Windows%20Server%202016/pictures/Screenshot%20from%202022-04-07%2019-00-54.png)
+
+
 
 
