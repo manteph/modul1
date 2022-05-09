@@ -29,7 +29,7 @@ Quin port destí?
 
 4. Captura paquets ping.
 
-![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/practica%209%20maig/images/Captura%20de%20pantalla%202022-05-09%20170204.jpg)
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/practica%209%20maig/images/Captura%20de%20pantalla%202022-05-09%20171550.jpg)
 
 Quin filtre hem de posar? 
 > pingpongprotocol
@@ -55,16 +55,16 @@ port destí
 
 5. Consulta la taula ARP del teu ordinador.
 
-![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/practica%209%20maig/images/Captura%20de%20pantalla%202022-05-09%20171550.jpg)
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/practica%209%20maig/images/Captura%20de%20pantalla%202022-05-09%20172716.jpg)
 
 Què signifiquen les entrades que veus?
 > Són les relacions entre adreces ip i mac amb les quals s'ha comunicat el pc.
 
 6. Neteja la taula ARP
 
-![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/practica%209%20maig/images/Captura%20de%20pantalla%202022-05-09%20172716.jpg)
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/practica%209%20maig/images/Captura%20de%20pantalla%202022-05-09%20172837.jpg)
 
 7. Torna a consultar la taula ARP.
 
-![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/practica%209%20maig/images/Captura%20de%20pantalla%202022-05-09%20172837.jpg)
+![](https://github.com/manteph/modul1/blob/main/Documentaci%C3%B3/practica%209%20maig/images/Captura%20de%20pantalla%202022-05-09%20172900.jpg)
 
